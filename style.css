@@ -12,10 +12,10 @@ body {
     background-color: azure;
     border: none;
     border-radius: 6px;
+    transition: all 600ms;
 }
 .container:hover {
     background-color: rgba(92, 145, 117, 0.5);
-    transition: 600ms;
     border-radius: 10px;
     margin-top: 100px;
 }
